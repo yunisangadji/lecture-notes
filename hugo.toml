@@ -1,4 +1,4 @@
-baseURL = 'https://dudung.rrkurnova.io/lecture-notes'
+baseURL = 'https://yunisangadji.io/lecture-notes'
 languageCode = 'en-us'
 title = 'lecture-notes'
 theme = ['hugo-chart', 'hugo-coder']
@@ -13,7 +13,7 @@ enableEmoji = true
 #disqusShortname = "dudung-github-io-blog"
 
 [params]
-author = "Raro Kurnova"
+author = "Yuni Sangadji"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Raro Kurnova's personal website"
 keywords = "blog,developer,personal"
@@ -116,7 +116,7 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 0
-url = "https://github.com/rrkurnova/"
+url = "https://github.com/yunisangadji/"
 
 #[[params.social]]
 #name = "Flickr"
